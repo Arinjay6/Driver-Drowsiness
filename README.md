@@ -4,3 +4,5 @@ The "Drowsiness Detection System" is a Python-based project utilizing computer v
 # Features
 * Instant drowsiness detection using computer vision.
 * Audible and visual warning to warn the driver.
+* Start and stop buttons for easy starting and disabling.
+* A user-friendly web-based interface for managing and monitoring systems.
